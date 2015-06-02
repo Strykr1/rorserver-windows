@@ -1,0 +1,4 @@
+=== NOTICE ===
+This is a testserver.
+It can reboot without further notice.
+==============
