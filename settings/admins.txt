@@ -21,4 +21,4 @@
 ; note: Empty lines and lines starting with a ";" will be ignored.
 
 ; EXAMPLE ADMIN (replace these with your encoded token and username)
-1 49640A25B3045985D817838E3DE9A03E6372096D Trucker2012
+1 49640A25B3045985D817838E3DE9A03E6372096D Admin
